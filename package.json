@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "echo ready"
+    "build": "mkdir -p public && cp -R index.html about blog cars-detail cars contact policy privacy services transfer weddingcars vercel.json public/"
   }
 }
